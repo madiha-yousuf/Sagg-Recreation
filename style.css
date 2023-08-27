@@ -957,8 +957,14 @@ margin-left: 122px;
 @media screen and (max-width: 768px) {
     
   .slider{
-width: 100%;
-  }
+    width: 113%;
+}
+.footer{
+  width: 113%;
+}
+.slide img{
+  width: 128px;
+}
     .slide {
         margin-right: 10px;
       }
