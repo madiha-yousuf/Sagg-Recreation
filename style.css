@@ -981,6 +981,7 @@ margin-left: 122px;
       .card {
         width: 57%;
         margin-right: 224px;
+        padding: 0 50px
     }
     
     }
@@ -1000,6 +1001,7 @@ margin-left: 122px;
           width: 57%;
           margin-right: 249px;
           margin-top: 80px;
+          padding: 0 50px
       }
 
     }
