@@ -979,7 +979,7 @@ margin-left: 122px;
         margin-left: 19px;
       }
       .card {
-        width: 73%;
+        width: 57%;
         margin-right: 224px;
     }
     
@@ -996,5 +996,10 @@ margin-left: 122px;
         .slide img{
           width: 128px;
         }
+        .card {
+          width: 57%;
+          margin-right: 249px;
+          margin-top: 80px;
+      }
 
     }
