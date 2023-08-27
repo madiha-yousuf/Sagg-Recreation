@@ -956,6 +956,9 @@ margin-left: 122px;
   
 @media screen and (max-width: 768px) {
     
+  .slider{
+width: 100%;
+  }
     .slide {
         margin-right: 10px;
       }
@@ -973,12 +976,19 @@ margin-left: 122px;
         width: 73%;
         margin-right: 224px;
     }
+    
     }
    
 
     @media screen and (min-width: 200px)  and (max-width: 420px){
         .slider{
-            width: 115%;
+            width: 113%;
+        }
+        .footer{
+          width: 113%;
+        }
+        .slide img{
+          width: 128px;
         }
 
     }
